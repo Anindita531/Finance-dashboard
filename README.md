@@ -43,7 +43,7 @@ A clean, interactive, and responsive finance management dashboard built with **R
 - **Framer Motion:** Smooth animations for row entry and transitions.
 - **Iconography:** Utilizes Lucide React / Heroicons for a polished look.
 ### Live Screenshot
-![Live Screenshot](./src/assets/LiveScreenshot/Live1.png)...![Live Screenshot](./src/assets/LiveScreenshot/Live2.png)...![Live Screenshot](./src/assets/LiveScreenshot/Live3.png)   
+![Live Screenshot](src/assets/LiveScreenShot/) !
 
 
 ---
