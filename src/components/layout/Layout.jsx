@@ -18,7 +18,7 @@ const Layout = ({ children }) => {
     */
     <div className="min-h-screen w-full bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300">
       
-      {/* Mobile view-te padding adjust kora hoyeche (p-4 sm:p-8) */}
+      {/* Mobile view- padding adjust  (p-4 sm:p-8) */}
       <div className="max-w-7xl mx-auto p-4 sm:p-8">
         
         <div className="flex justify-center mb-6">
@@ -31,7 +31,7 @@ const Layout = ({ children }) => {
           </button>
         </div>
 
-        {/* Children components-er container */}
+        {/* Children components   container */}
         <div className="w-full">
           {children}
         </div>
