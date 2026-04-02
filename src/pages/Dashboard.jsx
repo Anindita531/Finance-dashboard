@@ -29,7 +29,7 @@ const Dashboard = () => {
           
           <Charts transactions={transactions} />
           
-          {/* Table-er overflow handle korbe TransactionTable er wrapper */}
+          {/* Table's overflow handle the TransactionTable  wrapper */}
           <TransactionTable role={role} />
 
           <Insights transactions={transactions} />
