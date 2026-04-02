@@ -13,8 +13,8 @@ const Layout = ({ children }) => {
   }, [dark]);
 
   return (
-    /* 1. 'w-full' ar 'min-h-screen' ensure korbe jate background gap na thake.
-      2. 'transition-colors' add kora hoyeche jate white theke dark howar somoy 'blink' na kore.
+    /* 1. 'w-full' ar 'min-h-screen' ensure  no background gap  .
+      2. 'transition-colors' add for   No  'blink' while  white  -> dark  .
     */
     <div className="min-h-screen w-full bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300">
       
