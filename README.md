@@ -89,7 +89,7 @@ src/
 │   └── Dashboard.jsx
 ├── App.jsx
 └── main.jsx
-├──LiveScreenshot/
+
 
 
 ```
